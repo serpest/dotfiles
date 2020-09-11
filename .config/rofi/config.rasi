@@ -1,0 +1,6 @@
+configuration {
+ modi: "drun,window";
+ theme: "alternate";
+ font: "Terminus 10";
+ combi-modi: "drun,window";
+ }
